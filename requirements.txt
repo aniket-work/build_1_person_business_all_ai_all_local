@@ -1,0 +1,6 @@
+gradio
+groq
+requests
+flask
+streamlit
+python-dotenv
